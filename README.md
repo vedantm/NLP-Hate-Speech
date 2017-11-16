@@ -1,3 +1,4 @@
-# NLP-Hate-Speech
+# NLP-Hate-Speech-Recognition
 
-NLP HATE SPEECH RECOGNITION
+Hate Speech Recognition is a classification problem wherein the task is to classify tweets into
+three labels; namely hate speech, offensive language and neither.
